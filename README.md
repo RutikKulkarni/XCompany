@@ -2,7 +2,7 @@
 
 
 
-# Overview
+## Overview
 XCompany is a KYC (Know your Company) application that enables employees working within their respective company to understand the hierarchy structure of the people working with them. It provides an overview of employees working under different teams across the company, making it easier to reach out to them.
 
 During the course of this Micro-Experience, the developer:
