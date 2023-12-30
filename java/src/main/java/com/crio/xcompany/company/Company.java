@@ -27,10 +27,6 @@ public class Company{
         return companyName;
     }
 
-    // TODO: CRIO_TASK_MODULE_XCOMPANY
-    // Please define all the methods required here as mentioned in the XCompany BuildOut Milestone for each functionality before implementing the logic.
-    // This will ensure that the project can be compiled successfully.
-
     public void registerEmployee(String employeeName, Gender gender){
         Employee E = new Employee(employeeName,gender);
         employeeBook.put(employeeName,E);

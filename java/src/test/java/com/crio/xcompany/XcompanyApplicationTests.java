@@ -13,11 +13,6 @@ import org.junit.jupiter.api.Test;
 
 @DisplayName("XcompanyApplication Tests")
 public class XcompanyApplicationTests {
-
-
-    // TODO: WARNING!!!
-    //  DO NOT MODIFY ANY FILES IN THE TESTS/ ASSESSMENTS UNLESS ASKED TO.
-    //  Any modifications in this file may result in Assessment failure!
     
     @Test
     public void XcompanyApplication_assessment() throws IOException{
