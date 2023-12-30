@@ -15,14 +15,13 @@ During the course of this Micro-Experience, the developer:
 - Commands Implemented for XCompany Application
 
 ## Build XCompany Application completely from scratch.
-
-## Scope of Work
+### Scope of Work
 
 - Implemented all the required methods in Company and Employee class for the application to support the mentioned commands.
 - Implemented maintainable and extensible code by following Object-Oriented programming principles.
 - Made use of appropriate data structures to store and retrieve data in an efficient manner.
 - Approached the Employee Hierarchy Search requirement by applying DSA Skills.
 
-## Skills Used
+### Skills Used
 
 - Java
