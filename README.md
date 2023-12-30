@@ -11,11 +11,10 @@ During the course of this Micro-Experience, the developer:
 - Understood the application requirements and implemented the project from scratch.
 - Tested the implementation with test cases to ensure correctness.
 
-![Image](link_to_your_image)
+![image](https://github.com/RutikKulkarni/XCompany/assets/86470947/51151ada-cbe8-4098-871b-1faefa03132d)
+- Commands Implemented for XCompany Application
 
-## Commands Implemented for XCompany Application
-
-- Build XCompany Application completely from scratch.
+## Build XCompany Application completely from scratch.
 
 ## Scope of Work
 
